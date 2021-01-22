@@ -1,15 +1,11 @@
 # MarsLUL视频
-```https://www.bilibili.com/video/BV1t54y1R7F3```
-[跳转](https://www.bilibili.com/video/BV1t54y1R7F3)
+[https://www.bilibili.com/video/BV1t54y1R7F3](https://www.bilibili.com/video/BV1t54y1R7F3)
 # VirtualBox官网下载
-```https://www.virtualbox.org/wiki/Downloads```
-[跳转](https://www.virtualbox.org/wiki/Downloads)
+[https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
 # Ubuntu下载
-```https://cn.ubuntu.com/desktop```
-[跳转](https://cn.ubuntu.com/desktop)
+[https://cn.ubuntu.com/desktop](https://cn.ubuntu.com/desktop)
 # Ubuntu镜像源替换
-```https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/```
-[跳转](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)
+[https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)
 ## ubuntu-20.04百度云
 ```
 链接：https://pan.baidu.com/s/1Re8pyPzFPQKXbqT2p3HRYA 
