@@ -25,8 +25,6 @@
 ```sudo apt update```
 ###### 安装软件
 ```sudo apt install curl git openssh-server net-tools```
-# MarsWang42 git
-[Mars](https://github.com/MarsWang42/My-Vim-Conf)
 ## 安装 oh-my-zsh
 ###### 方法一
 ```
@@ -52,6 +50,8 @@ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 ###### 更换shell
 ```chsh -s $(which zsh)```
 ###### 重启可用
+
+[Mars](https://github.com/MarsWang42/My-Vim-Conf)
 
 ## 下载他的仓库
 ```git clone https://github.com/MarsWang42/My-Vim-Conf.git```
