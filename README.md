@@ -39,7 +39,7 @@ git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
 cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 ```
 ###### 方法二
-###### 检查是否安装
+###### 检查是否安装zsh
 ```zsh：zsh --version```
 ###### 安装zsh
 ```sudo apt install zsh```
