@@ -40,7 +40,7 @@ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 ```
 ###### 方法二
 ###### 检查是否安装zsh
-```zsh：zsh --version```
+```zsh --version```
 ###### 安装zsh
 ```sudo apt install zsh```
 ###### 将zsh设为默认
