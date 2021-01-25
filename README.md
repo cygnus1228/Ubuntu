@@ -20,6 +20,7 @@
 ```sudo cp /etc/apt/sources.list /etc/apt/sources_backup.list```
 ###### 打开文件
 ```sudo nano /etc/apt/sources.list```
+
 ```Ctrl+shift+6进入选择模式，长按方向键下进行全选，Ctrl+K删除全部内容，Ctrl+x退出```
 
 [Ubuntu软件源](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)
@@ -65,5 +66,5 @@ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 chmod +x ./setup.sh ./tmux.sh
 ./setup.sh
 ```
-## 按照提示并完成所有软件的安装
+## 应用更改
 ```source ~/.zshrc```
