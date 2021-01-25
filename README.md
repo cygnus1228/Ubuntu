@@ -14,12 +14,14 @@
 
 [安装秒传链接插件](https://www.userscript.zone/search?q=%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5)
 # VirtualBox所需代码
+## 设备-安装增强功能
+## 替换镜像源
 ###### 复制文件
 ```sudo cp /etc/apt/sources.list /etc/apt/sources_backup.list```
 ###### 打开文件
 ```sudo nano /etc/apt/sources.list```
 
-[Ubuntu镜像源替换](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)
+[Ubuntu软件源](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)
 
 ###### 更新软件源
 ```sudo apt update```
