@@ -18,7 +18,9 @@
 ```sudo cp /etc/apt/sources.list /etc/apt/sources_backup.list```
 ###### 打开文件
 ```sudo nano /etc/apt/sources.list```
+
 [Ubuntu镜像源替换](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)
+
 ###### 更新软件源
 ```sudo apt update```
 ###### 安装软件
