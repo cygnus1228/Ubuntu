@@ -4,7 +4,6 @@
 
 [Ubuntu下载](https://cn.ubuntu.com/desktop)
 
-[Ubuntu镜像源替换](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)
 ## ubuntu-20.04百度云
 ```
 链接：https://pan.baidu.com/s/1Re8pyPzFPQKXbqT2p3HRYA 
@@ -19,13 +18,14 @@
 ```sudo cp /etc/apt/sources.list /etc/apt/sources_backup.list```
 ###### 打开文件
 ```sudo nano /etc/apt/sources.list```
+[Ubuntu镜像源替换](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)
 ###### 更新软件源
 ```sudo apt update```
 ###### 安装软件
 ```sudo apt install curl git openssh-server net-tools```
 # MarsWang42 git
 [Mars](https://github.com/MarsWang42/My-Vim-Conf)
-## 安装 zsh
+## 安装 oh-my-zsh
 ```
 sudo apt install -y zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -46,3 +46,6 @@ chmod +x ./setup.sh ./tmux.sh
 ```
 ## 按照提示并完成所有软件的安装
 ```source ~/.zshrc```
+## 其他问题
+###### VirtualBox报错：不能为虚拟电脑XXX打开一个新任务
+###### [办法一](https://blog.csdn.net/qq_45414436/article/details/101622436)、[办法二](https://blog.csdn.net/wy_bk/article/details/78926646)
