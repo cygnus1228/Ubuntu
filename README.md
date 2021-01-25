@@ -67,5 +67,5 @@ chmod +x ./setup.sh ./tmux.sh
 ## 其他问题
 ###### VirtualBox报错：不能为虚拟电脑XXX打开一个新任务
 ###### [方法一](https://blog.csdn.net/qq_45414436/article/details/101622436)、[方法二](https://blog.csdn.net/wy_bk/article/details/78926646)
-###### 安装zsh
+###### 安装oh-my-zsh
 ###### [方法一](https://nicedoc.io/ohmyzsh/ohmyzsh)、[方法二](https://juejin.cn/post/6844904161096499213)
