@@ -46,7 +46,7 @@ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 克隆储存库：git clone https://github.com/ohmyzsh/ohmyzsh.git ~/.oh-my-zsh
 创建一个新的zsh配置文件：cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 更换shell：chsh -s $(which zsh)
-重启
+重启可用
 ```
 ## 下载他的仓库
 ```git clone https://github.com/MarsWang42/My-Vim-Conf.git```
