@@ -64,8 +64,3 @@ chmod +x ./setup.sh ./tmux.sh
 ```
 ## 按照提示并完成所有软件的安装
 ```source ~/.zshrc```
-## 其他问题
-###### VirtualBox报错：不能为虚拟电脑XXX打开一个新任务
-###### [方法一]()、[方法二]()
-###### 安装oh-my-zsh
-###### [方法一](https://nicedoc.io/ohmyzsh/ohmyzsh)、[方法二](https://juejin.cn/post/6844904161096499213)
