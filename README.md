@@ -8,6 +8,9 @@
 ```
 链接：https://pan.baidu.com/s/1Re8pyPzFPQKXbqT2p3HRYA 
 提取码：9o77 
+```
+
+```
 备用秒传链接：77fc715a283e41d0ad33d6418a9ba128#447f275659e9840ecd754d5bd9a9a157#2785017856#ubuntu-20.04.1-desktop-amd64.iso
 ```
 [百度云](https://pan.baidu.com/s/1Re8pyPzFPQKXbqT2p3HRYA)
