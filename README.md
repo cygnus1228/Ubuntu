@@ -18,6 +18,7 @@
 [安装秒传链接插件](https://www.userscript.zone/search?q=%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5)
 # VirtualBox所需代码
 ## 设备-安装增强功能
+## 打开双向剪切板
 ## 替换镜像源
 ###### 复制文件
 ```sudo cp /etc/apt/sources.list /etc/apt/sources_backup.list```
