@@ -19,6 +19,9 @@
 # VirtualBox所需代码
 ## 设备-安装增强功能
 ## 打开双向剪切板
+```Ctrl+Shift+C  复制```
+
+```Ctrl+Shift+V  粘贴```
 ## 替换镜像源
 ###### 复制文件
 ```sudo cp /etc/apt/sources.list /etc/apt/sources_backup.list```
