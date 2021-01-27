@@ -48,6 +48,11 @@ git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
 cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 ```
 ###### 方法二
+```
+sudo apt install -y zsh
+sh -c "$(curl -fsSL https://gitee.com/shmhlsy/oh-my-zsh-install.sh/raw/master/install.sh)"
+```
+###### 方法三
 ###### 检查是否安装zsh
 ```zsh --version```
 ###### 安装zsh
