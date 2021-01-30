@@ -13,9 +13,7 @@
 ```
 备用秒传链接：77fc715a283e41d0ad33d6418a9ba128#447f275659e9840ecd754d5bd9a9a157#2785017856#ubuntu-20.04.1-desktop-amd64.iso
 ```
-[百度云](https://pan.baidu.com/s/1Re8pyPzFPQKXbqT2p3HRYA)
-
-[安装秒传链接插件](https://www.userscript.zone/search?q=%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5)
+###### [安装秒传链接插件](https://www.userscript.zone/search?q=%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5)
 # VirtualBox所需代码
 ## 设备-安装增强功能
 ## 打开双向剪切板
