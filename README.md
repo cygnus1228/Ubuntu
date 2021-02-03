@@ -4,6 +4,8 @@
 
 [Ubuntu下载](https://cn.ubuntu.com/desktop)
 
+[VSCode官网下载](https://code.visualstudio.com/)
+
 ## ubuntu-20.04百度云
 ```
 链接：https://pan.baidu.com/s/1Re8pyPzFPQKXbqT2p3HRYA 
